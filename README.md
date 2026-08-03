@@ -29,8 +29,10 @@ Praticar:
 
 ## 📷 Demonstração
 
-*Adicione aqui uma captura de tela da aplicação em execução.*
+![Tela do projeto](Captura%20de%20tela%20de%202026-08-03%2019-32-17.png)
 
 ## 👨‍💻 Autor
 
 **Rafael Lima Confessor**
+
+
